@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌐 Weboria Labs | Premium Web Agency
 
-<!--
-**WeboriaLabs/weborialabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official repository for the Weboria Labs agency website. 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Custom Responsive Layouts)
+- JavaScript (ES6+)
+- Form Processing via Web3Forms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚖️ Copyright & License
+Copyright © 2026 Weboria Labs. All rights reserved. 
+No license is granted for public duplication, distribution, or commercial use of this proprietary codebase.
